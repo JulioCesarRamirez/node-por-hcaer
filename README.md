@@ -1,4 +1,4 @@
-## APlicaciín de comandos
+## Aplicación de comandos
 
 Recuerde instalar los paquetes de node
 
